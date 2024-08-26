@@ -6,7 +6,7 @@
 - [RIT](https://www.rit.edu/)
 
 ## Image
-![Tacos]https://www.onceuponachef.com/images/2023/08/Beef-Tacos.jpg
+![Tacos](https://www.onceuponachef.com/images/2023/08/Beef-Tacos.jpg)
 
 ## Colors
 
