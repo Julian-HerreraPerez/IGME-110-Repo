@@ -18,7 +18,6 @@
 - blue
 
 1. Cyan
-<span style="color:red">
 3. Magenta
 4. Yellow
 
