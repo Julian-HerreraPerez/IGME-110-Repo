@@ -6,8 +6,7 @@
 - [RIT](https://www.rit.edu/)
 
 ## Image
-![Tacos](https://www.onceuponachef.com/images/2023/08/Beef-Tacos.jpg)
-<img src = "https://www.onceuponachef.com/images/2023/08/Beef-Tacos.jpg" width = "100" height = "100">
+<img src = "https://www.onceuponachef.com/images/2023/08/Beef-Tacos.jpg" width = "400" height = "400">
 ![Dog](md-images/cassie.jpg)
 
 
